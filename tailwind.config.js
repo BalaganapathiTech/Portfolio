@@ -50,5 +50,5 @@ tailwind.config = {
             }
         }
     },
-    darkMode: 'media', // Using 'media' to switch dark mode based on system preference
+    darkMode: 'selector',
 }
